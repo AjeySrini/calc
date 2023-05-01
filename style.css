@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+  background-color: rgb(130, 223, 223);
+}
+.pad{
+    background-color: rgb(23, 23, 25);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10%;
+   }
+ 
+
+input,span{
+    width: 72%;
+    display: inline-block; 
+    text-align: right; 
+    color: rgb(0, 0, 0);
+    background-color: beige;
+}
+h4{
+  color: rgb(236, 236, 176);
+}
